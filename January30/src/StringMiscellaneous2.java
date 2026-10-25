@@ -1,6 +1,8 @@
 // Programmer: Patrick Cunanan (ER9)
 // Date: January 30, 2019
 // String methods repalce, toLowerCase, toUpperCase, trim, and toCharArray.
+
+// Git local back test
 public class StringMiscellaneous2 {
 	public static void main(String[] args)
 	{
