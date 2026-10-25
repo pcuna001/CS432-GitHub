@@ -1,6 +1,8 @@
 // Programmer: Patrick Cunanan (ER9)
 // Date: January 30, 2019
-// String method concat.
+// String method concat
+
+// Git test
 public class StringConcatenation {
 	public static void main(String[] args)
 	{
